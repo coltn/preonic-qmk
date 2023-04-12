@@ -1,4 +1,4 @@
 [ZoneTransfer]
 ZoneId=3
 ReferrerUrl=https://config.qmk.fm/
-HostUrl=https://nyc3.digitaloceanspaces.com/qmk-api/57b5e581-bf7c-4570-bc70-f8aa6b767efd/preonic_rev3_drop_preonic_qmk_cduck.bin?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GRYDYQMNSYP4OK3WPXBK%2F20230328%2Fnyc3%2Fs3%2Faws4_request&X-Amz-Date=20230328T040140Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=81693cf84629df15043d6d08bbd02bbaca33c1a555982fa5a3f0341825af47a6
+HostUrl=https://nyc3.digitaloceanspaces.com/qmk-api/6a4b89b8-3f95-4e77-8849-aceb5fd4ccf9/preonic_rev3_drop_preonic_qmk_cduck.bin?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GRYDYQMNSYP4OK3WPXBK%2F20230412%2Fnyc3%2Fs3%2Faws4_request&X-Amz-Date=20230412T032638Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=d0f42014aa541d9a406f2f8f657cbeebac89cead499ff5a424d82dd18dde7d41
